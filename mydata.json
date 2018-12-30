@@ -1,0 +1,198 @@
+{
+   "main":{
+      "name":"Максим Тиньгаев",
+      "occupation":"Репетитор, математик и программист",
+      "description":"Я создаю свой сайт портфолио.",
+      "image":"profilepic.jpg",
+      "bio":"Репетитор, математик и программист",
+      "email":"tingaevmi@yandex.ru",
+      "phone":"+7 (951) 773-64-69",
+      "adress":{
+         "street":"Салавата Юлаева",
+         "city":"Челябинск,",
+         "country":"Россия",
+         "zip":"454100"
+      },
+      "website":"https://max1mka1.github.io/gh-pages/",
+      "resumedownload":"https://docs.google.com/document/d/1CJyw9181w6Gkx0TJ4_zL4j-f0zvgRU0abobxNSbm6FQ/edit?usp=sharing",
+      "social":[
+         {
+            "name":"facebook",
+            "url":"https://www.facebook.com/484757788/",
+            "className":"fa fa-facebook"
+         },
+         {
+            "name":"twitter",
+            "url":"https://twitter.com/maxinstellar/",
+            "className":"fa fa-twitter"
+         },
+         {
+            "name":"google-plus",
+            "url":"https://plus.google.com/u/0/106214854252929724411",
+            "className":"fa fa-google-plus"
+         },
+         {
+            "name":"vkontakte",
+            "url":"https://vk.com/tingaevmi",
+            "className":"fa fa-vk"
+         },
+         {
+            "name":"instagram",
+            "url":"https://www.instagram.com/maxinstellar/",
+            "className":"fa fa-instagram"
+         },
+         {
+            "name":"github",
+            "url":"https://github.com/max1mka1/",
+            "className":"fa fa-github"
+         },
+         {
+            "name":"skype",
+            "url":"skype:maxinstellar?userinfo/",
+            "className":"fa fa-skype"
+         }
+      ]
+   },
+   "resume":{
+      "education":[
+         {
+            "school":"Южно-Уральский Государственный Университет",
+            "degree":"Специалист",
+            "graduated":"Июнь 2014",
+            "description":"Специальность: «Физическая электроника». Присвоена квалификация «Инженер»"
+         },
+         {
+            "school":"Челябинский Государственный Университет",
+            "degree":"Аспирант",
+            "graduated":"Сентябрь 2018",
+            "description":"Направление подготовки 03.06.01 «Физика и астрономия», направленность «Физика конденсированного состояния». Присвоена квалификация «Исследователь. Преподаватель-исследователь»"
+         }
+      ],
+      "work":[
+         {
+            "company":"Awesome Design Studio",
+            "title":"Senior UX Designer",
+            "years":"March 2010 - Present",
+            "description":"Странное место этот твой Мир, сэр Макс! Считается одно, а делается другое… У нас вообще ничего не «считается». Закон оговаривает необходимость, суеверия – внутреннюю убежденность, традиции свидетельствуют о наших привычках, но при этом каждый волен делать что хочет."
+         },
+         {
+            "company":"Super Cool Studio",
+            "title":"UX Designer",
+            "years":"March 2007 - February 2010",
+            "description":"Странное место этот твой Мир, сэр Макс! Считается одно, а делается другое… У нас вообще ничего не «считается». Закон оговаривает необходимость, суеверия – внутреннюю убежденность, традиции свидетельствуют о наших привычках, но при этом каждый волен делать что хочет."
+         }
+      ],
+      "skills":[
+         {
+            "name":"PHOTOSHOP",
+            "level":"65%"
+         },
+         {
+            "name":"ILLUSTRATOR",
+            "level":"10%"
+         },
+         {
+            "name":"WORDPRESS",
+            "level":"40%"
+         },
+         {
+            "name":"CSS",
+            "level":"58%"
+         },
+         {
+            "name":"HTML5",
+            "level":"95%"
+         },
+         {
+            "name":"JQUERY",
+            "level":"90%"
+         }
+      ]
+   },
+   "portfolio":[
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-01"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-02"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-03"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-04"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-05"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-06"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-07"
+      },
+      {
+         "title":"Coffee cup",
+         "description":"Некоторые разновидности нош нельзя перекладывать на чужие плечи. Некоторые дела следует улаживать в одиночку. Некоторые страницы собственной биографии не положено мусолить в присутствии посторонних. Так уж все устроено.",
+         "category":"Web devalopment",
+         "tags":"Design, Web programming",
+         "image":"coffee.jpg",
+         "url":"http://coffee1.ru",
+         "modal":"#modal-08"
+      }
+   ],
+   "testimonials":{
+      "testimonials":[
+         {
+            "text":"Я хочу сказать, когда человек оказывается на своем месте, он — весь, целиком — внезапно обретает смысл. А человек, только что обретший смысл, плохо приспособлен к страданию, на таком все душевные раны зарастают мгновенно, как на собаке, вот и моя заросла.",
+            "user":"Somebody someone"
+         },
+         {
+            "text":"2 Я хочу сказать, когда человек оказывается на своем месте, он — весь, целиком — внезапно обретает смысл. А человек, только что обретший смысл, плохо приспособлен к страданию, на таком все душевные раны зарастают мгновенно, как на собаке, вот и моя заросла.",
+            "user":"Somebody someone2"
+         }
+      ]
+   }
+}
