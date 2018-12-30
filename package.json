@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "my_resume2",
   "version": "0.1.0",
   "private": false,
   "homepage": "https://max1mka1.github.io/my_resume2",
-=======
-  "name": "my_resume",
-  "version": "0.1.0",
-  "private": false,
-  "homepage": "http://tingaevmi.com/",
->>>>>>> dc795729c88f6ab6be849058c0e3e9507a1bb7ee
   "dependencies": {
     "json-loader": "^0.5.7",
     "react": "^16.6.0",
@@ -21,10 +14,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
-=======
-    "eject": "react-scripts eject",
->>>>>>> dc795729c88f6ab6be849058c0e3e9507a1bb7ee
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
