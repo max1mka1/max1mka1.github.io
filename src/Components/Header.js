@@ -22,7 +22,7 @@ class Header extends Component {
                и узнаем обо мне больше <a className="smoothscroll" href="#about">Обо мне</a>.</h3>
                <hr />
                <ul className="social">
-                  <li><a href="https://vk.com/tingaevmi/"><i className="fa fa-vk"></i></a></li>
+                  <li><a href="https://vk.com/tingaevmi"><i className="fa fa-vk"></i></a></li>
                   <li><a href="https://twitter.com/maxinstellar/"><i className="fa fa-twitter"></i></a></li>
                   <li><a href="https://plus.google.com/u/0/106214854252929724411/"><i className="fa fa-google-plus"></i></a></li>
                   <li><a href="https://www.facebook.com/tingaevmi/"><i className="fa fa-facebook"></i></a></li>

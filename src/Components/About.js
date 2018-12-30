@@ -6,7 +6,7 @@ class About extends Component {
       console.log(this.props.data);
       var name = this.props.data.name;
       //var occupation = this.props.data.occupation;
-      var image = 'images/'+this.props.data.image;
+      var image = "%PUBLIC_URL%/images/profilepic.jpg";
       var bio = this.props.data.bio;
       var city = this.props.data.adress.city;
       var country = this.props.data.adress.country;

@@ -20,7 +20,7 @@ class App extends Component {
 
   getMyData(){
     $.ajax({
-      url: "http://localhost:3000/mydata.json",  //htttp://localhost:3000/mydata.json
+      url: "./mydata.json",  //htttp://localhost:3000/mydata.json
       dataType: "json",
       cache: false,
       success: function(data) {
