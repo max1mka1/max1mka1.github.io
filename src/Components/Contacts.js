@@ -18,13 +18,13 @@ class Contacts extends Component {
 
                 <div className="two columns header-col">
 
-                   <h1><span>Get In Touch.</span></h1>
+                   <h1><span>Связаться со мной</span></h1>
 
                 </div>
 
                 <div className="ten columns">
 
-                      <p className="lead">Если у Вас возникли какие-либо вопросы, Вы можете написать мне на почту, позвонить или связаться со мной любым удобным для Вас способом.
+                      <p className="lead">Если у Вас возникли какие-либо вопросы, Вы можете позвонить, написать мне в ВК или связаться со мной любым другим удобным для Вас способом
                       </p>
 
                 </div>
@@ -43,7 +43,7 @@ class Contacts extends Component {
                       </div>
 
                       <div>
-    						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
+    						   <label htmlFor="contactEmail">E-mail <span className="required">*</span></label>
     						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" />
                       </div>
 

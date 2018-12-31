@@ -43,7 +43,7 @@ class Resume extends Component {
           </div>
           <div className="nine columns main-col">
             <p>Будучи аспирантом, наисал в соавторстве множество научных статей по теме гибридных углеродных материалов (наноинженерия - компьютерное моделирование).
-            Результаты работ опубликованы в таких физических журналах,таких, как IOP Journal of Physics: Conference Series (2017, 2018),
+            Результаты работ опубликованы в таких физических журналах, как IOP Journal of Physics: Conference Series (2017, 2018),
             Materials Research Proceedings, (2018), Челябинский физико-математический журнал, (2018), Письма о материалах, (2015), и многих других журналах.
             Принимал активное участие в следующих конференциях: 5th International School And Conference «Saint Petersburg Open 2018»,
             St-Petersburg: St Petersburg Academic University, (2018), VII Международная молодежная научная школа-конференция «Современные проблемы физики и технологий»,
