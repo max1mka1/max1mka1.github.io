@@ -1,10 +1,10 @@
 {
    "main":{
       "name":"Максим Тиньгаев",
-      "occupation":"Репетитор, математик и программист",
+      "occupation":"Репетитор",
       "description":"Я создаю свой сайт портфолио.",
       "image":"profilepic.jpg",
-      "bio":"Репетитор, математик и программист",
+      "bio":"Репетитор",
       "email":"tingaevmi@yandex.ru",
       "phone":"+7 (951) 773-64-69",
       "adress":{

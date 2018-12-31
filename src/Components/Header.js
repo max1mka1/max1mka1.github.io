@@ -19,7 +19,7 @@ class Header extends Component {
             <div className="banner-text">
                <h1 className="responsive-headline">Меня зовут Максим Тиньгаев</h1>
                <h3>Я являюсь <span>репетитором</span>, <span> выпускником аспирантуры</span>, <span> математиком</span> и <span>программистом</span>. Преподавательской деятельность занимаюсь по таким предметам, как математика, информатика, физика, а также программирование на языках Python и С. Давайте <a className="smoothscroll" href="#resume">изучим портфолио подробнее </a>
-               и узнаем обо мне больше <a className="smoothscroll" href="#about">Обо мне</a>.</h3>
+               и узнаем <a className="smoothscroll" href="#about">обо мне</a> больше.</h3>
                <hr />
                <ul className="social">
                   <li><a href="https://vk.com/tingaevmi"><i className="fa fa-vk"></i></a></li>
