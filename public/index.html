@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
     <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
    	<script src="%PUBLIC_URL%/js/modernizr.js"></script>
+    <script type="text/javascript" src="https://vk.com/js/api/openapi.js?160"></script>
   </head>
   <body>
     <div id="root"></div>
@@ -24,5 +25,11 @@
     <script src="%PUBLIC_URL%/js/jquery.fittext.js"></script>
     <script src="%PUBLIC_URL%/js/magnific-popup.js"></script>
     <script src="%PUBLIC_URL%/js/init.js"></script>
+    <div id="vk_community_messages"></div>
+    <!-- VK Widget -->
+    <div id="vk_community_messages"></div>
+    <script type="text/javascript">
+    VK.Widgets.CommunityMessages("vk_community_messages", 167874834, {expandTimeout: "5000",tooltipButtonText: "Есть вопрос?"});
+    </script>
   </body>
 </html>
